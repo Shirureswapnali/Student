@@ -1,1 +1,1 @@
-# Student
+This is a simple Student Management System implemented in Java using console-based input and output. The program allows you to add, display, search, and delete a student’s information. It demonstrates the use of classes, objects, methods, and basic Java I/O.# Student
